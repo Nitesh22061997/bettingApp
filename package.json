@@ -16,5 +16,11 @@
     "url": "https://github.com/Nitesh22061997/betByBet/issues"
   },
   "homepage": "https://github.com/Nitesh22061997/betByBet#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "socket.io": "^4.8.1"
+  },
+  "devDependencies": {
+    "@types/socket.io": "^3.0.1"
+  }
 }
